@@ -14,7 +14,9 @@ I'm especially interested in:
 
 ## A few things I've built
 
-### SoloSheet
+### [SoloSheet](trysolosheet.com)
+
+repo - https://github.com/ayusharma17/SoloSheet
 
 I built SoloSheet because making dense exam reference sheets manually is tedious. It takes lecture PDFs and turns them into print-ready sheets that fit an exact page limit.
 
